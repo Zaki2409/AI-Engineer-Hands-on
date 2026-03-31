@@ -1,0 +1,9 @@
+LLM's/Hugging Face/my_saved_models/
+config.py
+.ipynb_checkpoints/
+.pychache/
+__pycache__/
+*.pyc
+test_trainer
+fine_tuned_model
+DAD's/
